@@ -9,3 +9,4 @@ imbalanced-learn==0.12.2
 pydantic
 python-dotenv
 requests
+gunicorn
